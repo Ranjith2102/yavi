@@ -1,0 +1,1 @@
+class Listweekday2ItemModel {}
